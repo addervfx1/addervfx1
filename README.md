@@ -38,7 +38,8 @@
 <br><br>
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=addervfx1)](https://github.com/addervfx1/github-readme-stats)
+[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=addervfx1&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/addervfx1)
+
 
 
 ## Contato
