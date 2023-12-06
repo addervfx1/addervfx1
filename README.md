@@ -7,7 +7,7 @@
 
 - 👩‍💻 Programando em **JavaScript, Node.JS, Angular, PHP, Swift**
 
-<img align="left" height="400em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
+<img align="left" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 
 <!--
 
