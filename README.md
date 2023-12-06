@@ -37,6 +37,10 @@
 
 <br><br>
 
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=addervfx1)](https://github.com/addervfx1/github-readme-stats)
+
+
 ## Contato
 
 <p align="left" style="background:yellow">
