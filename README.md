@@ -30,17 +30,15 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=addervfx1&show_icons=true&theme=vision-friendly-dark" alt="addervfx1's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addervfx&layout=compact&theme=vision-friendly-dark" alt="addervfx1's most languages"/>
 </p>
 -->
 
 <br><br>
 
 
-[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=addervfx1&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count-private=true)](https://github.com/addervfx1)
-
-
+<a href="https://github.com/addervfx1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addervfx1&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="addervfx1's github stats" /></a> | <a href="https://github.com/addervfx1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addervfx1&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
 
 ## Contato
 
