@@ -38,7 +38,7 @@
 <br><br>
 
 
-<a href="https://github.com/addervfx1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addervfx1&show_icons=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="addervfx1's github stats" /></a> | <a href="https://github.com/addervfx1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=addervfx1&layout=compact&theme=vision-friendly-dark&hide_border=true" /></a> 
+<a href="https://github.com/addervfx1/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=addervfx1&show_icons=true&include_all_commits=true&theme=vision-friendly-dark&hide_border=true" alt="addervfx1's github stats" /></a> 
 
 ## Contato
 
