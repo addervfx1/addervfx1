@@ -1,6 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">Wesley Emerson</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=addervfx1&color=yellow" alt="Profile views" /> </p>
-
+<img align="right" height="590em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 - 💻 Desenvolvedor Web & Mobile
 
 - ⛪ Atualmente trabalhando na [Assembleia de Deus em Pernambuco](https://github.com/IEADPE)
