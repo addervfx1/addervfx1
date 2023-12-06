@@ -5,8 +5,10 @@
 
 - ⛪ Atualmente trabalhando na [Assembleia de Deus em Pernambuco](https://github.com/IEADPE)
 
-- 👩‍💻 Programando em **JavaScript, Node.JS, Angular, PHP, Swift**
+- 👩‍💻 Programando em **TypeScript, Node.JS, Angular, PHP, Swift**
 
+
+<img align="left" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
 <img align="left" height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
 
 <!--
