@@ -3,7 +3,7 @@
 
 - 💻 Desenvolvedor Web & Mobile
 
-- ⛪ I’m currently working at [Assembleia de Deus em Pernambuco](https://github.com/IEADPE)
+- ⛪ Atualmente trabalhando na [Assembleia de Deus em Pernambuco](https://github.com/IEADPE)
 
 - 👩‍💻 Programando em **JavaScript, Node.JS, Angular, PHP, Swift**
 
