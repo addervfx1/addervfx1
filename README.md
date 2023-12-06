@@ -38,7 +38,7 @@
 <br><br>
 
 
-[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=addervfx1&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/addervfx1)
+[![Tecnologias mais usadas](https://github-readme-stats.vercel.app/api/top-langs?username=addervfx1&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true&count-private=true)](https://github.com/addervfx1)
 
 
 
